@@ -1,0 +1,14 @@
+H:\Projects\Harsh\Task_Todo\Task_Todo\Task_Todo\Task_Todo\bin\Debug\netstandard2.0\Task_Todo.deps.json
+H:\Projects\Harsh\Task_Todo\Task_Todo\Task_Todo\Task_Todo\bin\Debug\netstandard2.0\Task_Todo.dll
+H:\Projects\Harsh\Task_Todo\Task_Todo\Task_Todo\Task_Todo\bin\Debug\netstandard2.0\ref\Task_Todo.dll
+H:\Projects\Harsh\Task_Todo\Task_Todo\Task_Todo\Task_Todo\bin\Debug\netstandard2.0\Task_Todo.pdb
+H:\Projects\Harsh\Task_Todo\Task_Todo\Task_Todo\Task_Todo\obj\Debug\netstandard2.0\Task_Todo.csprojAssemblyReference.cache
+H:\Projects\Harsh\Task_Todo\Task_Todo\Task_Todo\Task_Todo\obj\Debug\netstandard2.0\App.xaml.g.cs
+H:\Projects\Harsh\Task_Todo\Task_Todo\Task_Todo\Task_Todo\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+H:\Projects\Harsh\Task_Todo\Task_Todo\Task_Todo\Task_Todo\obj\Debug\netstandard2.0\Task_Todo.csproj.CoreCompileInputs.cache
+H:\Projects\Harsh\Task_Todo\Task_Todo\Task_Todo\Task_Todo\obj\Debug\netstandard2.0\Task_Todo.AssemblyInfoInputs.cache
+H:\Projects\Harsh\Task_Todo\Task_Todo\Task_Todo\Task_Todo\obj\Debug\netstandard2.0\Task_Todo.AssemblyInfo.cs
+H:\Projects\Harsh\Task_Todo\Task_Todo\Task_Todo\Task_Todo\obj\Debug\netstandard2.0\XamlC.stamp
+H:\Projects\Harsh\Task_Todo\Task_Todo\Task_Todo\Task_Todo\obj\Debug\netstandard2.0\Task_Todo.dll
+H:\Projects\Harsh\Task_Todo\Task_Todo\Task_Todo\Task_Todo\obj\Debug\netstandard2.0\ref\Task_Todo.dll
+H:\Projects\Harsh\Task_Todo\Task_Todo\Task_Todo\Task_Todo\obj\Debug\netstandard2.0\Task_Todo.pdb
