@@ -1,0 +1,6 @@
+
+*.apk
+.vs/
+.Task_Todo/Task_Todo.Android/bin/
+.Task_Todo/Task_Todo.Android/obj/
+.vs/Task_Todo/v16/.suo
