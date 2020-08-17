@@ -9,13 +9,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_Todo.iOS", "Task_Todo\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_Todo", "Task_Todo\Task_Todo\Task_Todo.csproj", "{F92E9250-13CF-4D99-B491-1B2100EF4FB4}"
 EndProject
-Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "Task_Todo_Shared", "Task_Todo_Shared\Task_Todo_Shared.shproj", "{5AAC058F-9A40-40DB-9D8C-90F3F002784B}"
-EndProject
 Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
 		Task_Todo_Shared\Task_Todo_Shared.projitems*{345491c9-fc72-422d-8372-0d7dd74e3e2b}*SharedItemsImports = 4
-		Task_Todo_Shared\Task_Todo_Shared.projitems*{5aac058f-9a40-40db-9d8c-90f3f002784b}*SharedItemsImports = 13
-		Task_Todo_Shared\Task_Todo_Shared.projitems*{759c88ab-6ae2-4d50-8bcb-6c6c9aab3203}*SharedItemsImports = 4
 	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

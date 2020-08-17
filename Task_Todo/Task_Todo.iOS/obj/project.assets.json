@@ -156,6 +156,20 @@
         "runtime": {
           "lib/Xamarin.iOS/MaterialComponents.dll": {}
         }
+      },
+      "Task_Todo/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Xamarin.Essentials": "1.3.1",
+          "Xamarin.Forms": "4.4.0.991265"
+        },
+        "compile": {
+          "bin/placeholder/Task_Todo.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Task_Todo.dll": {}
+        }
       }
     },
     "Xamarin.iOS,Version=v1.0/win": {
@@ -312,6 +326,20 @@
         },
         "runtime": {
           "lib/Xamarin.iOS/MaterialComponents.dll": {}
+        }
+      },
+      "Task_Todo/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Xamarin.Essentials": "1.3.1",
+          "Xamarin.Forms": "4.4.0.991265"
+        },
+        "compile": {
+          "bin/placeholder/Task_Todo.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Task_Todo.dll": {}
         }
       }
     },
@@ -470,6 +498,20 @@
         "runtime": {
           "lib/Xamarin.iOS/MaterialComponents.dll": {}
         }
+      },
+      "Task_Todo/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Xamarin.Essentials": "1.3.1",
+          "Xamarin.Forms": "4.4.0.991265"
+        },
+        "compile": {
+          "bin/placeholder/Task_Todo.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Task_Todo.dll": {}
+        }
       }
     },
     "Xamarin.iOS,Version=v1.0/win-x86": {
@@ -626,6 +668,20 @@
         },
         "runtime": {
           "lib/Xamarin.iOS/MaterialComponents.dll": {}
+        }
+      },
+      "Task_Todo/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Xamarin.Essentials": "1.3.1",
+          "Xamarin.Forms": "4.4.0.991265"
+        },
+        "compile": {
+          "bin/placeholder/Task_Todo.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Task_Todo.dll": {}
         }
       }
     }
@@ -1027,34 +1083,40 @@
         "xamarin.ios.materialcomponents.92.0.0.nupkg.sha512",
         "xamarin.ios.materialcomponents.nuspec"
       ]
+    },
+    "Task_Todo/1.0.0": {
+      "type": "project",
+      "path": "../Task_Todo/Task_Todo.csproj",
+      "msbuildProject": "../Task_Todo/Task_Todo.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "Xamarin.iOS,Version=v1.0": [
+      "Task_Todo >= 1.0.0",
       "Xamarin.Essentials >= 1.5.3.1",
       "Xamarin.Forms >= 4.6.0.726",
       "Xamarin.Forms.Visual.Material >= 4.6.0.726"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\harsh\\.nuget\\packages\\": {},
+    "C:\\Users\\HarsH\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\Projects\\Harsh\\Task_Todo\\Task_Todo\\Task_Todo\\Task_Todo.iOS\\Task_Todo.iOS.csproj",
+      "projectUniqueName": "H:\\Work\\TaskTodo\\Task_Todo\\Task_Todo\\Task_Todo.iOS\\Task_Todo.iOS.csproj",
       "projectName": "Task_Todo.iOS",
-      "projectPath": "H:\\Projects\\Harsh\\Task_Todo\\Task_Todo\\Task_Todo\\Task_Todo.iOS\\Task_Todo.iOS.csproj",
-      "packagesPath": "C:\\Users\\harsh\\.nuget\\packages\\",
-      "outputPath": "H:\\Projects\\Harsh\\Task_Todo\\Task_Todo\\Task_Todo\\Task_Todo.iOS\\obj\\",
+      "projectPath": "H:\\Work\\TaskTodo\\Task_Todo\\Task_Todo\\Task_Todo.iOS\\Task_Todo.iOS.csproj",
+      "packagesPath": "C:\\Users\\HarsH\\.nuget\\packages\\",
+      "outputPath": "H:\\Work\\TaskTodo\\Task_Todo\\Task_Todo\\Task_Todo.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\harsh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\HarsH\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -1067,7 +1129,11 @@
       },
       "frameworks": {
         "xamarinios10": {
-          "projectReferences": {}
+          "projectReferences": {
+            "H:\\Work\\TaskTodo\\Task_Todo\\Task_Todo\\Task_Todo\\Task_Todo.csproj": {
+              "projectPath": "H:\\Work\\TaskTodo\\Task_Todo\\Task_Todo\\Task_Todo\\Task_Todo.csproj"
+            }
+          }
         }
       }
     },

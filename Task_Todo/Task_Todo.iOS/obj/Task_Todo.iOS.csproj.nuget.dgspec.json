@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "H:\\Projects\\Harsh\\Task_Todo\\Task_Todo\\Task_Todo\\Task_Todo.iOS\\Task_Todo.iOS.csproj": {}
+    "H:\\Work\\TaskTodo\\Task_Todo\\Task_Todo\\Task_Todo.iOS\\Task_Todo.iOS.csproj": {}
   },
   "projects": {
-    "H:\\Projects\\Harsh\\Task_Todo\\Task_Todo\\Task_Todo\\Task_Todo.iOS\\Task_Todo.iOS.csproj": {
+    "H:\\Work\\TaskTodo\\Task_Todo\\Task_Todo\\Task_Todo.iOS\\Task_Todo.iOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\Projects\\Harsh\\Task_Todo\\Task_Todo\\Task_Todo\\Task_Todo.iOS\\Task_Todo.iOS.csproj",
+        "projectUniqueName": "H:\\Work\\TaskTodo\\Task_Todo\\Task_Todo\\Task_Todo.iOS\\Task_Todo.iOS.csproj",
         "projectName": "Task_Todo.iOS",
-        "projectPath": "H:\\Projects\\Harsh\\Task_Todo\\Task_Todo\\Task_Todo\\Task_Todo.iOS\\Task_Todo.iOS.csproj",
-        "packagesPath": "C:\\Users\\harsh\\.nuget\\packages\\",
-        "outputPath": "H:\\Projects\\Harsh\\Task_Todo\\Task_Todo\\Task_Todo\\Task_Todo.iOS\\obj\\",
+        "projectPath": "H:\\Work\\TaskTodo\\Task_Todo\\Task_Todo\\Task_Todo.iOS\\Task_Todo.iOS.csproj",
+        "packagesPath": "C:\\Users\\HarsH\\.nuget\\packages\\",
+        "outputPath": "H:\\Work\\TaskTodo\\Task_Todo\\Task_Todo\\Task_Todo.iOS\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\harsh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\HarsH\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -31,7 +31,11 @@
         },
         "frameworks": {
           "xamarinios10": {
-            "projectReferences": {}
+            "projectReferences": {
+              "H:\\Work\\TaskTodo\\Task_Todo\\Task_Todo\\Task_Todo\\Task_Todo.csproj": {
+                "projectPath": "H:\\Work\\TaskTodo\\Task_Todo\\Task_Todo\\Task_Todo\\Task_Todo.csproj"
+              }
+            }
           }
         }
       },
@@ -62,6 +66,73 @@
         },
         "win-x86": {
           "#import": []
+        }
+      }
+    },
+    "H:\\Work\\TaskTodo\\Task_Todo\\Task_Todo\\Task_Todo\\Task_Todo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\Work\\TaskTodo\\Task_Todo\\Task_Todo\\Task_Todo\\Task_Todo.csproj",
+        "projectName": "Task_Todo",
+        "projectPath": "H:\\Work\\TaskTodo\\Task_Todo\\Task_Todo\\Task_Todo\\Task_Todo.csproj",
+        "packagesPath": "C:\\Users\\HarsH\\.nuget\\packages\\",
+        "outputPath": "H:\\Work\\TaskTodo\\Task_Todo\\Task_Todo\\Task_Todo\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\HarsH\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.3.1, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[4.4.0.991265, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
