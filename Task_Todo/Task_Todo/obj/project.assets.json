@@ -569,23 +569,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\harsh\\.nuget\\packages\\": {},
+    "C:\\Users\\HarsH\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\Projects\\Harsh\\Task_Todo\\Task_Todo\\Task_Todo\\Task_Todo\\Task_Todo.csproj",
+      "projectUniqueName": "H:\\Work\\TaskTodo\\Task_Todo\\Task_Todo\\Task_Todo\\Task_Todo.csproj",
       "projectName": "Task_Todo",
-      "projectPath": "H:\\Projects\\Harsh\\Task_Todo\\Task_Todo\\Task_Todo\\Task_Todo\\Task_Todo.csproj",
-      "packagesPath": "C:\\Users\\harsh\\.nuget\\packages\\",
-      "outputPath": "H:\\Projects\\Harsh\\Task_Todo\\Task_Todo\\Task_Todo\\Task_Todo\\obj\\",
+      "projectPath": "H:\\Work\\TaskTodo\\Task_Todo\\Task_Todo\\Task_Todo\\Task_Todo.csproj",
+      "packagesPath": "C:\\Users\\HarsH\\.nuget\\packages\\",
+      "outputPath": "H:\\Work\\TaskTodo\\Task_Todo\\Task_Todo\\Task_Todo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\harsh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\HarsH\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -635,7 +635,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

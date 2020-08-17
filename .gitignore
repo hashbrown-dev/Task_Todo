@@ -1,0 +1,6 @@
+
+*.apk
+vs
+bin
+obj
+Debug

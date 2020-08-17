@@ -1099,24 +1099,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\harsh\\.nuget\\packages\\": {},
+    "C:\\Users\\HarsH\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\Projects\\Harsh\\Task_Todo\\Task_Todo\\Task_Todo\\Task_Todo.iOS\\Task_Todo.iOS.csproj",
+      "projectUniqueName": "H:\\Work\\TaskTodo\\Task_Todo\\Task_Todo\\Task_Todo.iOS\\Task_Todo.iOS.csproj",
       "projectName": "Task_Todo.iOS",
-      "projectPath": "H:\\Projects\\Harsh\\Task_Todo\\Task_Todo\\Task_Todo\\Task_Todo.iOS\\Task_Todo.iOS.csproj",
-      "packagesPath": "C:\\Users\\harsh\\.nuget\\packages\\",
-      "outputPath": "H:\\Projects\\Harsh\\Task_Todo\\Task_Todo\\Task_Todo\\Task_Todo.iOS\\obj\\",
+      "projectPath": "H:\\Work\\TaskTodo\\Task_Todo\\Task_Todo\\Task_Todo.iOS\\Task_Todo.iOS.csproj",
+      "packagesPath": "C:\\Users\\HarsH\\.nuget\\packages\\",
+      "outputPath": "H:\\Work\\TaskTodo\\Task_Todo\\Task_Todo\\Task_Todo.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\harsh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\HarsH\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -1130,8 +1130,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "H:\\Projects\\Harsh\\Task_Todo\\Task_Todo\\Task_Todo\\Task_Todo\\Task_Todo.csproj": {
-              "projectPath": "H:\\Projects\\Harsh\\Task_Todo\\Task_Todo\\Task_Todo\\Task_Todo\\Task_Todo.csproj"
+            "H:\\Work\\TaskTodo\\Task_Todo\\Task_Todo\\Task_Todo\\Task_Todo.csproj": {
+              "projectPath": "H:\\Work\\TaskTodo\\Task_Todo\\Task_Todo\\Task_Todo\\Task_Todo.csproj"
             }
           }
         }
